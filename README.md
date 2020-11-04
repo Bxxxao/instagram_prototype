@@ -1,0 +1,2 @@
+# instagram_prototype
+一个instagram的原型模仿
